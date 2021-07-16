@@ -124,7 +124,3 @@ if p2.quant() == 0:
     print(p1.name, 'WON!!! CONGRATULATIONS!')
 
 
-
-
-
-# Use the 3 classes along with some logic to play a game of war!
